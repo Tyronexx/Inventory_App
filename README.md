@@ -13,4 +13,5 @@ and [Navigation](https://developer.android.com/topic/libraries/architecture/navi
 Getting Started
 ---------------
 
-1. Download and run the app.
+1. Download the app.
+2. Run the app.
